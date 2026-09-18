@@ -1,1 +1,22 @@
-placeholder
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0C1C38"/><stop offset="100%" stop-color="#122A4E"/></linearGradient></defs>
+  <rect width="1200" height="627" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="627" fill="#2DBEB4"/>
+  <rect x="48" y="36" width="72" height="6" fill="#2DBEB4"/>
+  <text x="56" y="130" fill="#F5F8FC" font-family="Arial,sans-serif" font-size="46" font-weight="700">Application matrix beats</text>
+  <text x="56" y="186" fill="#F5F8FC" font-family="Arial,sans-serif" font-size="46" font-weight="700">company lists</text>
+  <text x="56" y="266" fill="#A0B4C8" font-family="Arial,sans-serif" font-size="24">Industry x product. Specifiers, not just names.</text>
+  <rect x="690" y="120" width="450" height="300" rx="10" fill="#102444" stroke="#285A6E"/>
+  <text x="720" y="155" fill="#2DBEB4" font-size="14" font-family="Arial,sans-serif">Joint</text>
+  <text x="860" y="155" fill="#2DBEB4" font-size="14" font-family="Arial,sans-serif">Process</text>
+  <text x="1010" y="155" fill="#2DBEB4" font-size="14" font-family="Arial,sans-serif">Buyer</text>
+  <text x="710" y="220" fill="#A0B4C8" font-size="14" font-family="Arial,sans-serif">Auto</text>
+  <text x="710" y="290" fill="#A0B4C8" font-size="14" font-family="Arial,sans-serif">RV</text>
+  <text x="710" y="360" fill="#A0B4C8" font-size="14" font-family="Arial,sans-serif">Marine</text>
+  <circle cx="745" cy="215" r="8" fill="#2DBEB4"/><circle cx="890" cy="215" r="8" fill="#50DCD2"/><circle cx="1035" cy="215" r="8" fill="#2DBEB4"/>
+  <circle cx="745" cy="285" r="8" fill="#50DCD2"/><circle cx="890" cy="285" r="8" fill="#2DBEB4"/><circle cx="1035" cy="285" r="8" fill="#50DCD2"/>
+  <circle cx="745" cy="355" r="8" fill="#2DBEB4"/><circle cx="890" cy="355" r="8" fill="#50DCD2"/><circle cx="1035" cy="355" r="8" fill="#2DBEB4"/>
+  <text x="48" y="579" fill="#2DBEB4" font-family="Arial,sans-serif" font-size="18" font-weight="700">Target Market Atlas</text>
+  <text x="48" y="601" fill="#A0B4C8" font-family="Arial,sans-serif" font-size="14">targetmarketatlas.com</text>
+</svg>
